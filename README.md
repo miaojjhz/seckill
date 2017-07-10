@@ -1,0 +1,3 @@
+# seckill
+高并发秒杀系统
+本项目利用Spring+SpringMVC+Mybatis搭建的秒杀系统，其中用到redis和MySql的存储过程进行优化
